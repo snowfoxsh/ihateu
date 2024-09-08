@@ -2,3 +2,5 @@
 /node_modules/
 allowed_channels.json
 allowed_users.json
+.idea
+.vscode
